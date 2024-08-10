@@ -1,1 +1,1 @@
-print('Merry Christmas ')
+print(2345+2345)
